@@ -1,0 +1,49 @@
+[
+  {	 "id":1,
+	 "name":"Dosa",
+	 "rating":3,
+	 "category":"south",
+	 "image":"images/Dosa.jpg",
+	 "recipe":"If fresh mint is not available, you can use a couple teaspoons of dried mint from herbal mint tea. You can also vary the vegetables depending on what you have on hand. Spring peas in their pods instead of shucked peas, for example. Or you could add some chopped fresh zucchini or corn. My mother often puts a couple extra tablespoons of chopped fresh mint directly into the soup. Feel free to substitute ground turkey for the ground beef, we do it often."
+	 },
+	 {
+	 "id":2,
+	 "name":"Puttu",
+	 "rating":3,
+	 "category":"south",
+	 "image":"images/puttu.jpg",
+	 "recipe":"If fresh mint is not available, you can use a couple teaspoons of dried mint from herbal mint tea. You can also vary the vegetables depending on what you have on hand. Spring peas in their pods instead of shucked peas, for example. Or you could add some chopped fresh zucchini or corn. My mother often puts a couple extra tablespoons of chopped fresh mint directly into the soup. Feel free to substitute ground turkey for the ground beef, we do it often."
+	 },
+	 {
+	 "id":3,
+	 "name":"Kappa",
+	 "rating":3,
+	 "category":"south",
+	 "image":"images/Kappa.jpg",
+	 "recipe":"If fresh mint is not available, you can use a couple teaspoons of dried mint from herbal mint tea. You can also vary the vegetables depending on what you have on hand. Spring peas in their pods instead of shucked peas, for example. Or you could add some chopped fresh zucchini or corn. My mother often puts a couple extra tablespoons of chopped fresh mint directly into the soup. Feel free to substitute ground turkey for the ground beef, we do it often."
+	 },
+	 {
+	"id":4,
+	"name":"Sundae",
+	"rating":3, 
+	"category":"dessert",
+	"image":"images/sundae.jpg",
+	"recipe":"If fresh mint is not available, you can use a couple teaspoons of dried mint from herbal mint tea. You can also vary the vegetables depending on what you have on hand. Spring peas in their pods instead of shucked peas, for example. Or you could add some chopped fresh zucchini or corn. My mother often puts a couple extra tablespoons of chopped fresh mint directly into the soup. Feel free to substitute ground turkey for the ground beef, we do it often."
+	},
+	{
+   "id":5,
+   "name":"Dum Biriyani",
+   "rating":3,
+   "category":"north",
+   "image":"images/Dum.jpg",
+   "recipe":"If fresh mint is not available, you can use a couple teaspoons of dried mint from herbal mint tea. You can also vary the vegetables depending on what you have on hand. Spring peas in their pods instead of shucked peas, for example. Or you could add some chopped fresh zucchini or corn. My mother often puts a couple extra tablespoons of chopped fresh mint directly into the soup. Feel free to substitute ground turkey for the ground beef, we do it often."
+   },
+   {"id":6,
+   "name":"ChocoBurger",
+   "rating":3,
+   "category":"dessert",
+   "image":"images/choco-burger.jpg",
+   "recipe":"If fresh mint is not available, you can use a couple teaspoons of dried mint from herbal mint tea. You can also vary the vegetables depending on what you have on hand. Spring peas in their pods instead of shucked peas, for example. Or you could add some chopped fresh zucchini or corn. My mother often puts a couple extra tablespoons of chopped fresh mint directly into the soup. Feel free to substitute ground turkey for the ground beef, we do it often."
+   }
+	
+]
